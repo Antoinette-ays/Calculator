@@ -69,9 +69,9 @@ h3
 <body>
 <form name="calculator">
 <center>
-<input type="" id="num1" value="Enter Number:"> <br><br>
-<input type="" id="num2" value="Enter Operation:"> <br><br>
-<input type="" id="num3" value="Enter Number:"> <br><br>
+<input type="" id="num1" placeholder="Enter Number:"> <br><br>
+<input type="" id="num2" placeholder="Enter Operation:"> <br><br>
+<input type="" id="num3" placeholder="Enter Number:"> <br><br>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input type="BUTTON" class="btn" value="Compute"  onclick="compute()"></center>
 </form>
 <script>
